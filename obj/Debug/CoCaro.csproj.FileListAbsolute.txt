@@ -1,0 +1,23 @@
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.exe
+D:\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.pdb
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.exe
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.pdb
+D:\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.BanDiem.resources
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.exe.config
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.exe
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\bin\Debug\CoCaro.pdb
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.BanDiem.resources
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.from1.resources
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.exe
+D:\CTU\lt .net\CT246\CoCaro\CoCaro\obj\Debug\CoCaro.pdb
